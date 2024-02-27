@@ -13,7 +13,7 @@ class AddAccountComponent extends StatelessWidget {
                 padding: const EdgeInsets.all(8.0),
                 child: Text("compte creator".toUpperCase()),
               ),
-              SizedBox(),
+              const SizedBox(),
               const Padding(
                 padding: EdgeInsets.all(8.0),
                 child: TextField(
